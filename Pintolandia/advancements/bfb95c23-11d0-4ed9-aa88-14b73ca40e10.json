@@ -5450,69 +5450,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-05-09 01:10:09 -0400"
-    },
-    "done": true
-  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-05-08 21:37:38 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-05-09 00:34:18 -0400"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/item_storage_components_cell_16k_part": {
-    "criteria": {
-      "has_cell_component_4k": "2025-05-08 22:04:01 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-05-08 22:29:04 -0400"
-    },
-    "done": true
-  },
-  "mekanism:stabilizing_chunks": {
-    "criteria": {
-      "upgrade_anchor": "2025-05-09 01:48:26 -0400"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2025-05-09 00:34:18 -0400"
-    },
-    "done": true
-  },
-  "mekanism:teleportation_core": {
-    "criteria": {
-      "teleportation_core": "2025-05-08 23:20:41 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-05-08 22:29:04 -0400"
-    },
-    "done": true
-  },
-  "mekanism:digital_miner": {
-    "criteria": {
-      "digital_miner": "2025-05-08 23:27:19 -0400"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/fluid_storage_cell_4k_storage": {
-    "criteria": {
-      "has_cell_component_4k": "2025-05-08 22:04:01 -0400"
     },
     "done": true
   },
@@ -5522,9 +5462,21 @@
     },
     "done": true
   },
-  "mekanism:reinforced_alloy": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "alloy_reinforced": "2025-05-08 23:05:59 -0400"
+      "has_redstone_block": "2025-05-08 21:42:00 -0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_16k_part": {
+    "criteria": {
+      "has_cell_component_4k": "2025-05-08 22:04:01 -0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_4k_storage": {
+    "criteria": {
+      "has_cell_component_4k": "2025-05-08 22:04:01 -0400"
     },
     "done": true
   },
@@ -5534,33 +5486,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/crimson_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-05-09 01:10:09 -0400"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cells/item_storage_cell_4k": {
     "criteria": {
       "has_cell_component_4k": "2025-05-08 22:04:01 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-05-08 21:42:00 -0400"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/stone_gear_upgrade": {
-    "criteria": {
-      "has_ingredient": "2025-05-08 23:59:11 -0400"
-    },
-    "done": true
-  },
-  "mekanism:logistical_sorter": {
-    "criteria": {
-      "logistical_sorter": "2025-05-08 22:56:08 -0400"
     },
     "done": true
   },
@@ -5570,9 +5498,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_carpet": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_red_wool": "2025-05-09 00:34:18 -0400"
+      "melon_stem": "2025-05-08 22:28:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-08 22:29:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-08 22:29:04 -0400"
     },
     "done": true
   },
@@ -5588,9 +5528,15 @@
     },
     "done": true
   },
-  "mekanism:disassembler": {
+  "mekanism:logistical_sorter": {
     "criteria": {
-      "atomic_disassembler": "2025-05-09 01:10:47 -0400"
+      "logistical_sorter": "2025-05-08 22:56:08 -0400"
+    },
+    "done": true
+  },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2025-05-08 23:05:59 -0400"
     },
     "done": true
   },
@@ -5600,9 +5546,57 @@
     },
     "done": true
   },
+  "mekanism:teleportation_core": {
+    "criteria": {
+      "teleportation_core": "2025-05-08 23:20:41 -0400"
+    },
+    "done": true
+  },
   "mekanism:personal_storage": {
     "criteria": {
       "storage": "2025-05-08 23:26:09 -0400"
+    },
+    "done": true
+  },
+  "mekanism:digital_miner": {
+    "criteria": {
+      "digital_miner": "2025-05-08 23:27:19 -0400"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/stone_gear_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-05-08 23:59:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-05-09 00:34:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-05-09 00:34:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-05-09 00:34:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-05-09 01:10:09 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-09 01:10:09 -0400"
     },
     "done": true
   },
@@ -5612,9 +5606,135 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "mekanism:disassembler": {
     "criteria": {
-      "melon_stem": "2025-05-08 22:28:43 -0400"
+      "atomic_disassembler": "2025-05-09 01:10:47 -0400"
+    },
+    "done": true
+  },
+  "mekanism:stabilizing_chunks": {
+    "criteria": {
+      "upgrade_anchor": "2025-05-09 01:48:26 -0400"
+    },
+    "done": false
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-05-09 19:07:19 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_hv": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-09 19:07:52 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/redstone_acid": {
+    "criteria": {
+      "has_redstone_dust": "2025-05-09 19:05:50 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_aluminum_to_raw_block_aluminum": {
+    "criteria": {
+      "has_raw_aluminum": "2025-05-09 19:07:19 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/rs_engineering": {
+    "criteria": {
+      "has_redstone": "2025-05-09 19:05:50 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coil_mv": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-09 19:07:52 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coil_lv": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-09 19:07:52 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/screwdriver": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-09 19:07:52 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/component_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-09 19:07:52 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_hv_relay": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-09 19:07:52 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_blasting3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-05-09 19:07:19 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_iron_hammering": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-09 19:07:52 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/drillhead_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-09 19:07:52 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-09 19:07:52 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2025-05-09 19:09:20 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolbox": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-09 19:07:52 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-09 19:07:52 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecutter": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-09 19:07:52 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_aluminum_to_raw_aluminum": {
+    "criteria": {
+      "has_raw_block_aluminum": "2025-05-09 19:07:19 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2025-05-09 19:09:10 -0400"
     },
     "done": true
   },
