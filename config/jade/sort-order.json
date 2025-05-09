@@ -1,6 +1,9 @@
 {
   "ae2:server_data": null,
+  "immersiveengineering:multiblock_inventory": null,
+  "immersiveengineering:multiblock_tank": null,
   "jade:object_name": null,
+  "jadeaddons.mcjtylib:jadeaddons": null,
   "jadeaddons.tconstruct:casting_table": null,
   "jadeaddons.tconstruct:duct_fluid": null,
   "jadeaddons.tconstruct:duct_item": null,
