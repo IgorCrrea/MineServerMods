@@ -1,0 +1,52 @@
+[09mai.2025 00:36:58.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IgorCrrea tried to swim in lava
+[09mai.2025 01:10:14.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IgorCrrea burned to death
+[09mai.2025 01:10:47.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IgorCrrea has made the advancement [Needs More Speeeeed!]
+[09mai.2025 01:15:25.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: singaro123 was squished too much
+[09mai.2025 01:21:18.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: singaro123 has made the advancement [Needs More Speeeeed!]
+[09mai.2025 02:06:33.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: singaro123 has made the advancement [Ice Bucket Challenge]
+[09mai.2025 02:07:35.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=69, y=91, z=86} BlockPos{x=69, y=90, z=87}
+[09mai.2025 02:07:35.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=69, y=91, z=86} BlockPos{x=69, y=90, z=87}
+[09mai.2025 02:07:35.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=69, y=91, z=86} BlockPos{x=69, y=90, z=87}
+[09mai.2025 02:07:54.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=89, z=89} BlockPos{x=67, y=88, z=90}
+[09mai.2025 02:07:57.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=88, z=90} BlockPos{x=64, y=88, z=89}
+[09mai.2025 02:07:57.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=89, z=89} BlockPos{x=64, y=88, z=89}
+[09mai.2025 02:07:57.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=88, z=88} BlockPos{x=65, y=88, z=89}
+[09mai.2025 02:07:57.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=88, z=88} BlockPos{x=65, y=88, z=89}
+[09mai.2025 02:07:57.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=88, z=88} BlockPos{x=65, y=88, z=89}
+[09mai.2025 02:07:57.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=88, z=88} BlockPos{x=65, y=88, z=89}
+[09mai.2025 02:07:57.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=88, z=88} BlockPos{x=65, y=88, z=89}
+[09mai.2025 02:07:57.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=88, z=88} BlockPos{x=65, y=88, z=89}
+[09mai.2025 02:07:57.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=88, z=88} BlockPos{x=65, y=88, z=89}
+[09mai.2025 02:07:57.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=88, z=88} BlockPos{x=65, y=88, z=89}
+[09mai.2025 02:12:25.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: singaro123 fell from a high place
+[09mai.2025 02:13:00.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=109, z=18} BlockPos{x=-10, y=104, z=40}
+[09mai.2025 02:13:02.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=106, z=40} BlockPos{x=-15, y=105, z=41}
+[09mai.2025 02:13:02.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=106, z=40} BlockPos{x=-15, y=105, z=41}
+[09mai.2025 02:13:02.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=106, z=40} BlockPos{x=-15, y=105, z=41}
+[09mai.2025 02:13:02.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=106, z=40} BlockPos{x=-15, y=105, z=41}
+[09mai.2025 02:13:02.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=106, z=40} BlockPos{x=-15, y=105, z=41}
+[09mai.2025 02:13:03.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=106, z=40} BlockPos{x=-15, y=105, z=41}
+[09mai.2025 02:13:03.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=106, z=40} BlockPos{x=-15, y=105, z=41}
+[09mai.2025 02:13:38.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=97, z=80} BlockPos{x=-17, y=96, z=80}
+[09mai.2025 02:14:07.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IgorCrrea lost connection: Disconnected
+[09mai.2025 02:14:07.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IgorCrrea left the game
+[09mai.2025 02:16:04.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: singaro123 was squished too much
+[09mai.2025 02:33:49.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: singaro123 has made the advancement [We Need to Go Deeper]
+[09mai.2025 02:36:59.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: singaro123 fell from a high place
+[09mai.2025 02:39:45.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: singaro123 was squished too much
+[09mai.2025 02:40:02.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: singaro123 was squished too much
+[09mai.2025 02:40:17.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: singaro123 was squished too much
+[09mai.2025 02:49:53.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: singaro123 lost connection: Disconnected
+[09mai.2025 02:49:53.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: singaro123 left the game
+[09mai.2025 07:16:00.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09mai.2025 07:16:00.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09mai.2025 07:16:00.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09mai.2025 07:16:00.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Pintolandia]'/minecraft:overworld
+[09mai.2025 07:16:01.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Pintolandia]'/minecraft:the_nether
+[09mai.2025 07:16:01.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Pintolandia]'/minecraft:the_end
+[09mai.2025 07:16:01.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Pintolandia]'/ae2:spatial_storage
+[09mai.2025 07:16:01.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Pintolandia): All chunks are saved
+[09mai.2025 07:16:01.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09mai.2025 07:16:01.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09mai.2025 07:16:01.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[09mai.2025 07:16:01.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
