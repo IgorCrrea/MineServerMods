@@ -1,50 +1,20 @@
-[11mai.2025 00:38:19.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: singaro123 lost connection: Disconnected
-[11mai.2025 00:38:19.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: singaro123 left the game
-[11mai.2025 02:16:53.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IgorCrrea fell from a high place
-[11mai.2025 03:15:57.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=66, y=4, z=197} BlockPos{x=66, y=4, z=196}
-[11mai.2025 03:15:57.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=66, y=4, z=197} BlockPos{x=66, y=4, z=196}
-[11mai.2025 03:15:57.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=66, y=4, z=197} BlockPos{x=66, y=4, z=196}
-[11mai.2025 03:15:57.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=66, y=4, z=197} BlockPos{x=66, y=4, z=196}
-[11mai.2025 03:16:03.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-2, z=192} BlockPos{x=65, y=-3, z=192}
-[11mai.2025 03:16:03.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-2, z=192} BlockPos{x=65, y=-3, z=192}
-[11mai.2025 03:16:03.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-2, z=192} BlockPos{x=65, y=-3, z=192}
-[11mai.2025 03:16:04.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=66, y=-3, z=192}
-[11mai.2025 03:16:04.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=66, y=-3, z=192}
-[11mai.2025 03:16:04.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=66, y=-3, z=192}
-[11mai.2025 03:16:04.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=66, y=-3, z=192}
-[11mai.2025 03:16:04.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=66, y=-3, z=192}
-[11mai.2025 03:16:04.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=66, y=-3, z=192}
-[11mai.2025 03:16:04.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=66, y=-3, z=192}
-[11mai.2025 03:16:04.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=66, y=-3, z=192}
-[11mai.2025 03:16:04.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=66, y=-3, z=192}
-[11mai.2025 03:16:04.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=66, y=-3, z=192}
-[11mai.2025 03:16:04.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=66, y=-3, z=192}
-[11mai.2025 03:16:05.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=64, y=-5, z=192}
-[11mai.2025 03:16:05.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=64, y=-5, z=192}
-[11mai.2025 03:16:05.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=64, y=-5, z=192}
-[11mai.2025 03:16:05.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=64, y=-5, z=192}
-[11mai.2025 03:16:05.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=64, y=-5, z=192}
-[11mai.2025 03:16:05.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=64, y=-5, z=192}
-[11mai.2025 03:16:05.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=64, y=-5, z=192}
-[11mai.2025 03:16:05.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=64, y=-5, z=192}
-[11mai.2025 03:16:06.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=64, y=-5, z=192}
-[11mai.2025 03:16:06.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=64, y=-5, z=192}
-[11mai.2025 03:16:06.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=64, y=-5, z=192}
-[11mai.2025 03:16:06.199] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=64, y=-5, z=192}
-[11mai.2025 03:16:06.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-4, z=191} BlockPos{x=64, y=-5, z=192}
-[11mai.2025 03:18:26.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IgorCrrea fell from a high place
-[11mai.2025 03:32:24.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IgorCrrea has made the advancement [Network Aesthetics]
-[11mai.2025 04:31:07.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IgorCrrea lost connection: Disconnected
-[11mai.2025 04:31:07.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IgorCrrea left the game
-[11mai.2025 04:31:12.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[11mai.2025 04:31:12.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[11mai.2025 04:31:12.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[11mai.2025 04:31:12.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Pintolandia]'/minecraft:overworld
-[11mai.2025 04:31:12.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Pintolandia]'/minecraft:the_end
-[11mai.2025 04:31:12.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Pintolandia]'/minecraft:the_nether
-[11mai.2025 04:31:12.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Pintolandia]'/ae2:spatial_storage
-[11mai.2025 04:31:12.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Pintolandia): All chunks are saved
-[11mai.2025 04:31:12.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11mai.2025 04:31:12.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11mai.2025 04:31:12.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[11mai.2025 04:31:12.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11mai.2025 04:41:39.138] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[11mai.2025 04:41:39.142] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 24.0.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[11mai.2025 04:41:40.263] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[11mai.2025 04:41:40.300] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/igora/OneDrive/Área%20de%20Trabalho/MineServerMods/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[11mai.2025 04:41:40.870] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\igora\OneDrive\Área de Trabalho\MineServerMods\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.0\fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[11mai.2025 04:41:40.875] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\igora\OneDrive\Área de Trabalho\MineServerMods\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.0\javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[11mai.2025 04:41:40.879] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\igora\OneDrive\Área de Trabalho\MineServerMods\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.0\lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[11mai.2025 04:41:40.881] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\igora\OneDrive\Área de Trabalho\MineServerMods\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.0\mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[11mai.2025 04:41:41.019] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[11mai.2025 04:41:41.021] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[11mai.2025 04:41:43.051] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[11mai.2025 04:41:43.107] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[11mai.2025 04:41:43.143] [main/WARN] [mixin/]: Reference map 'grapplemod.refmap.json' for grapplemod.mixins.json could not be read. If this is a development environment you can ignore this message
+[11mai.2025 04:41:43.210] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.21.0+mc1.20.1: 88 options available, 0 override(s) found
+[11mai.2025 04:41:43.211] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[11mai.2025 04:41:43.224] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[11mai.2025 04:41:43.294] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 125 options available, 0 override(s) found
+[11mai.2025 04:41:43.973] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/equipment/armor/BacktankBlockEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.equipment.armor.BacktankBlockEntity)
+[11mai.2025 04:41:43.973] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.equipment.armor.BacktankBlockEntity was not found jadeaddons.mixins.json:create.BacktankBlockEntityAccess
+[11mai.2025 04:41:44.039] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
